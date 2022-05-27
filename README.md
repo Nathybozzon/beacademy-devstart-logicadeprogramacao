@@ -1,6 +1,6 @@
 # beacademy-devstart-logicadeprogramacao<br>
 Respostas dos Exercícios de Lógica de Programação em portugol.<br><br>
-As questões seguem abaixo:<br>
+As questões seguem abaixo:<br><br>
 0 - Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela.<br>
 1 - Com base no programa anterior calcule e exiba ao final o Índice de Massa Corpórea(IMC) da pessoa sabendo que a fórmula para o cálculo é: IMC = peso/(altura*altura);<br>
 2 - Crie um programa que receba o nome e a idade de uma pessoa e exiba: a. O nome e a idade informada; b. Verdadeiro Se a idade é maior que 18; c. Falso se a idade é diferente que 25; d. Falso se a idade é diferente que 25 E o nome é igual a Marcos; e. Verdadeiro se a idade é diferente que 25 OU o nome é igual a Marcos; f. Verdadeiro se a idade dividida por 2 é igual a ZERO;<br>
