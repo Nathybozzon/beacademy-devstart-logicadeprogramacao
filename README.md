@@ -1,5 +1,5 @@
 # beacademy-devstart-logicadeprogramacao<br>
-Respostas dos Exercícios de Lógica de Programação em portugol.<br>
+Respostas dos Exercícios de Lógica de Programação em portugol.<br><br>
 As questões seguem abaixo:<br>
 0 - Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela.<br>
 1 - Com base no programa anterior calcule e exiba ao final o Índice de Massa Corpórea(IMC) da pessoa sabendo que a fórmula para o cálculo é: IMC = peso/(altura*altura);<br>
